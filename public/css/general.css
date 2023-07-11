@@ -6,6 +6,8 @@
 
 body {
     background-image: url("/img/bg-2.png") ;
+    max-width: 980px;
+    margin: 0 auto;
 }
 
 li {

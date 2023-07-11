@@ -2,7 +2,8 @@
 
 .home__header {
     background-color: orangered;
-    padding: 10px;
+    padding: 15px;
+    margin-bottom: 30px;
   }
   
   .home__header--top {
@@ -33,6 +34,9 @@
     .home__header {
       display: flex ;
       justify-content: space-between;
+      width: 90%;
+      margin: 0 auto;
+      margin-bottom: 2%;
     }
 
     .home__header--bars {
